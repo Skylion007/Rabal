@@ -1,0 +1,16 @@
+.circleIcon{
+	background-color: white;
+	padding: 5px;
+	border-radius: 50%;
+}
+.resize{
+	text-align: center;
+}
+
+.margin-bot {
+  margin-bottom: 50px;
+}
+
+.margin-to {
+  padding-top: 50px;
+}
